@@ -1,11 +1,20 @@
 {
-  "name": "",
-  "repo_url": "",
-  "license": "GPLv3",
-  "logo": "",
-  "badges": [],
-  "includes": [],
-  "authors": [],
-  "context": [],
-  "references": []
+  "name": "AWS EC2 Instance Terraform module",
+  "repo_url": "https://github.com/Infrastrukturait/terraform-aws-ec2-instance",
+  "license": "MIT",
+  "includes": [
+    "docs/terraform.md"
+  ],
+  "authors": [
+    {
+      "name": "Rafał Masiarek",
+      "email": "rafal@masiarek.pl",
+      "github": "rafalmasiarek",
+      "website": "https://masiarek.pl"
+    }
+  ],
+  "context": [
+    "## About",
+    "Terraform module which creates an [EC2 instance](https://aws.amazon.com/pm/ec2/) on [AWS](https://aws.amazon.com/)."
+  ]
 }
