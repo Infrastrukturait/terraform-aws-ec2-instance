@@ -224,7 +224,6 @@ module "ec2_instance" {
 
 <!-- END_TF_DOCS -->
 
-
 <!-- references -->
 
 [repo_link]: https://github.com/Infrastrukturait/terraform-aws-ec2-instance
